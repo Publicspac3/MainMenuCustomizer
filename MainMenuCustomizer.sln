@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainMenuCustomizer", "MainMenuCustomizer\MainMenuCustomizer.vcxproj", "{0EFE4E7C-3B82-47F7-A17E-D134D7026746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EFE4E7C-3B82-47F7-A17E-D134D7026746}.Release|x64.ActiveCfg = Release|x64
+		{0EFE4E7C-3B82-47F7-A17E-D134D7026746}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CFA52F-DA3F-4A55-A10E-84FE024DA05F}
+	EndGlobalSection
+EndGlobal
